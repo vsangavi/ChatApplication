@@ -1,2 +1,2 @@
-# ChatApplication
-Chat application using Reactjs
+# Mark entry Application
+Student Mark Entry application using Reactjs
