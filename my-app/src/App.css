@@ -1,32 +1,37 @@
-body{
-  background-image: linear-gradient(to right,#FD297A, #9424F0);}
-p{
+body {
+  background-color: red; /* For browsers that do not support gradients */
+  background-image:url(pexels-tyler-lastovich-937782.jpg);
+  background-size: cover;
+}
+p {
   text-align: center;
   margin-top: 30px;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: x-large;
-  color: #ffffff ;
+  color: #ffffff;
   font-weight: bolder;
 }
+h1{
+  font-weight: bolder;
+}
+
 .div2 {
   align-items: center;
   width: 420px;
   height: 420px;
   margin-top: 30px;
   padding: 20px;
-  margin-left:37vw;
+  margin-left: 37vw;
+  font-weight: bolder;
   text-align: center;
-  border: #191b1e solid 2px;
-  background-color: #bec9d4;
+  border: #eba76f solid 2px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(238, 98, 63, 0.96);
 }
-.parabox{
+.parabox {
   margin-top: 10px;
   text-align: center;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: medium;
-  color: #000000 ;
+  color: #000000;
   font-weight: normal;
-}
-.submit{
-  background-color: #e99fbb;
 }
